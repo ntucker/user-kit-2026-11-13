@@ -1,5 +1,5 @@
 {
-  "name": "user-kit",
+  "name": "user-kit-2026-11-13",
   "owner": {
     "name": "Nathaniel Tucker",
     "email": "me@ntucker.me"
@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "user-kit",
+      "name": "user-kit-2026-11-13",
       "source": ".",
       "description": "Personal Cursor skills and subagents."
     }

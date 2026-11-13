@@ -1,7 +1,7 @@
 {
-  "name": "user-kit",
+  "name": "user-kit-2026-11-13",
   "version": "1.0.0",
-  "description": "Personal Cursor skills and subagents (advisor workflow, human-first planning, agent instructions, clean code, conceptual compression, agent-friendly design systems, writing, React, REST API design, skill authoring).",
+  "description": "Snapshot of ntucker/user-kit@3ed77ee for Cloud Agents; edit the source, not this.",
   "author": {
     "name": "Nathaniel Tucker",
     "email": "me@ntucker.me"
@@ -9,5 +9,9 @@
   "repository": "https://github.com/ntucker/user-kit",
   "homepage": "https://github.com/ntucker/user-kit",
   "license": "MIT",
-  "keywords": ["skills", "agents", "personal"]
+  "keywords": [
+    "skills",
+    "agents",
+    "personal"
+  ]
 }
